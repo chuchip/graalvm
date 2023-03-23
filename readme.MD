@@ -19,7 +19,9 @@ Tener en cuenta que la compilación a nativo lleva mucho tiempo. En mi equipo al
 [INFO] Total time:  07:20 min
 
 ```
-En este ejemplo se muestra como el uso de reflexión hace que la función falle en el endpoint 'hello' cuando se compila nativamente.
+En este programa se muestra como el uso de reflexión hace que la función falle en el endpoint 'hello' cuando se compila nativamente.
+
+Tenéis las llamadas a todos los endpoints, en el fichero "Test graalv.postman_collection.json", disponible para importarlo en Postman.
 
 
 
